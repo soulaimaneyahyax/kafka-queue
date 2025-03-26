@@ -1,5 +1,7 @@
 {
     "name": "soulaimaneyahyax/kafka-queue",
+    "license": "MIT",
+    "description": "Kafka Queue for PHP",
     "authors": [
         {
             "name": "Soulaimane Yahya",
